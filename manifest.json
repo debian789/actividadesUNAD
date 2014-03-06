@@ -1,0 +1,16 @@
+{
+   "app": {
+      "launch": {
+         "local_path": "index.html"
+      }
+   },
+   "description": "Cronograma de actividades",
+   "icons": {
+      "128": "actividad.png",
+      "16": "actividad2.png"
+   },
+   "manifest_version": 2,
+   "name": "Actividades",
+   "offline_enabled": true,
+   "version": "0.1"
+}
